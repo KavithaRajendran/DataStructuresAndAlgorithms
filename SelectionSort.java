@@ -1,8 +1,10 @@
-/* Following stpes are done
-* List with 10 elements created
-* List travel & printing
-* List is sorted with selection sort algorithm
-* Swapping is done by exchanging node
+/*************************************************************************************************** 
+* Description:
+*   List with 10 elements created
+*   List travel & printing
+*   List is sorted with selection sort algorithm
+*   Swapping is done by exchanging node
+* Author : Kavitha Rajendran
 ****************************************************************************************************/
 import java.util.Scanner;
 
