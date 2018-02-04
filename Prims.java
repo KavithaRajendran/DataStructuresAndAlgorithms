@@ -1,4 +1,8 @@
-
+/*
+* Description: Implementation of Prims Algorithm
+* Author     : Kavitha Rajendran
+*
+*/
 import java.util.*;
 
 public class Prims {
