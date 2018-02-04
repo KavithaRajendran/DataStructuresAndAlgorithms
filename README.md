@@ -31,9 +31,7 @@ Assignment 1:
 
      you will first make a Binary search tree (we already did the algorithm in the class for insert a node into BST.
 
-    a. You may hard code the values you insert into the BST. You must insert at least 15 values in random order
-
-              (DO NOT INSERT VALUES IN SORTED ORDER).
+    a. You may hard code the values you insert into the BST. You must insert at least 15 values in random order (DO NOT INSERT VALUES IN SORTED ORDER).
 
     b. run the program to display the tree before deletion.  You will do in-order traverse to display the nodes of the tree.
 
@@ -56,3 +54,49 @@ Assignment 1:
 
      e. The final sorted numbers at the final pass will be displayed.
  
+ Assignment 3:
+ -------------
+ Implement Heap Sort.
+
+This includes implementing the Heapify algorithm.
+
+You can use the array method.
+
+The input would some numbers at random.  Use at least 15 numbers.  The input would not be sorted, and should not already be a heap.
+
+1. Make a heap (min or max).  Your out put should print the array before heapify and then after heapify. 
+
+    submit the code as well as the screen shot of execution.
+
+2. From the heap you make in step 1, use heapsort to sort the array.
+
+    submit code and the screen shot showing before sort and after sort array. (Before sort array should be same as the after heapify array in step 1.)
+
+Assignment 4:
+-------------
+Implement Graph Traversal algorithms using incidence matrix
+1) DFS
+2) BFS
+
+Assignment 5:
+-------------
+Implement Prim's algorithm to find MST, given a graph.
+
+1. You may hardcode the graph.  It must have atleast 10 nodes and 15 edges. The edges have weights.Re-
+
+   Print the graph using, you may list edges of the graph as a-b(7)  edge ab with weight 7 .. or any other method to display the input graph.
+
+   Find the MST using Prim's algorithm.  Print the resultant tree .. again use the previous method to display the graph to diaply the tree (remember, tree is also a graph)
+
+2. re-run the program using a directed graph.  The first run should be on undirected graph.
+
+
+Assignment 6:
+-------------
+Implement Radix sort - LSD.
+
+Use list of 20 numbers in random order.  The largest number must be 6 digits long.
+
+Sort them using LSD Radix sort.
+
+Print out the numbers before sorting and after sorting.
