@@ -1,5 +1,7 @@
 /*************************************************************
 * Recursive Binary Search implementation
+* Author:
+*      Kavitha Rajendran
 *************************************************************/
 public class BinarySearch{
     //Recursive Function to do Binary Search
