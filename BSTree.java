@@ -1,12 +1,16 @@
 /****************************************************************************************
- * This java program 
- * 1) Builds a binary search tree
- * 2) Print the tree by traversing inOrdertravel
- * 3) Deletes a leaf node
- * 4) Deletes a non-leaf node and replaces with predecessor which is not a leaf node
- * 5) Deleted a node and replaces with predecessor which is a leaf node
- * 6) This also works for replacing with successor
- * 7) Tree is printed after every node deletion
+ * Description: This java program 
+ *  1) Builds a binary search tree
+ *  2) Print the tree by traversing inOrdertravel
+ *  3) Deletes a leaf node
+ *  4) Deletes a non-leaf node and replaces with predecessor which is not a leaf node
+ *  5) Deleted a node and replaces with predecessor which is a leaf node
+ *  6) This also works for replacing with successor
+ *  7) Tree is printed after every node deletion
+ *
+ * Author:
+ *      Kavitha Rajendran
+ */
  * ***************************************************************************************/
 import java.util.*;
 
