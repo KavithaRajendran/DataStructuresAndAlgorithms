@@ -1,3 +1,6 @@
+/*************************************************************
+* Recursive Binary Search implementation
+*************************************************************/
 public class BinarySearch{
     //Recursive Function to do Binary Search
     public static int bSearch(int[] input_array, int searchKey, int low, int high) {
