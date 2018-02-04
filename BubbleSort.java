@@ -1,7 +1,10 @@
 /**********************************************************************************
- * Bubble sort:
- *  This programs sort the given input 
- *  Output is printed for every pass
+ * Description:
+ *  Bubble sort:
+ *      This programs sort the given input 
+ *      Output is printed for every pass
+ * Author:
+ *      Kavitha Rajendran
  **********************************************************************************/
 public class BubbleSort{
     public static void bSort(int[] inputArray){
