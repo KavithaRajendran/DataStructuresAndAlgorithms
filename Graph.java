@@ -1,3 +1,10 @@
+/*
+* Description: Implementation of DFS & BFS (Graph traversal algorithms)
+*              Network is represented using Incidence matrix
+* Author:
+*      Kavitha Rajendran
+*/
+
 import java.util.*;
 
 public class Graph {
