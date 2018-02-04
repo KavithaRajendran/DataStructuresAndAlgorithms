@@ -2,7 +2,7 @@
  * Description:
  *      Java program to implement Radix sort using LSD
  * Author:
- *      Kavitha Rajendran - kxr161830
+ *      Kavitha Rajendran
  */
 import java.util.*;
 public class RadixSort{
